@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C:\Users\ayataka\Desktop\programming-contest\PContest2022
+=======
+C:\Users\irohas\3D Objects\PContest2022
+>>>>>>> 77e691f5f1313c70618207d299df07a48c990b04
