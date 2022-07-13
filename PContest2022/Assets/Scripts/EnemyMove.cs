@@ -20,7 +20,7 @@ public class EnemyMove : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void OnCollisionStay()
     {
         // プレイヤーを目指して進む
         navMeshAgent.destination = player.transform.position;

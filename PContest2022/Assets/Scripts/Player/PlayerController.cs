@@ -22,8 +22,8 @@ public class PlayerController : MonoBehaviour
     {
         Transform trans = transform;
         transform.position = trans.position;
-        trans.position += trans.TransformDirection(Vector3.forward) * Input.GetAxis("Vertical") * mainSPEED;
-        trans.position += trans.TransformDirection(Vector3.right) * Input.GetAxis("Horizontal") * mainSPEED;
+        trans.position += trans.TransformDirection(Vector3.forward) * Input.GetAxis("Vertical") * mainSPEED * 0.1f;
+        trans.position += trans.TransformDirection(Vector3.right) * Input.GetAxis("Horizontal") * mainSPEED * 0.1f;
     }
 
     void cameracon()
