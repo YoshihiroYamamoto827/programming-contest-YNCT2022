@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-0.20309948921203614,"y":0.5280318260192871,"z":-0.0529213547706604},"rotation":{"x":-0.12395906448364258,"y":0.7337496280670166,"z":-0.13921327888965608,"w":-0.6533491611480713},"size":1.6192607879638672,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":1.4205058813095093,"y":1.59039306640625,"z":-1.7625638246536255},"rotation":{"x":-0.33851581811904909,"y":0.6357442140579224,"z":-0.3646864891052246,"w":-0.5901221036911011},"size":1.7262545824050904,"orthographic":false}
+>>>>>>> Yamamoto
